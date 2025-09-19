@@ -1,0 +1,23 @@
+.input{
+    width: 533px;
+    height: 70px;
+    top: 607px;
+    left: 459px;
+    border-radius: 20px;
+    border: 1px;
+    flex-direction: column;
+}
+.text{
+
+}
+.form-input{
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #75757530;
+}
+.inputt{
+    flex-direction: column;
+    gap: 30px;
+padding-top: 30px;
+}

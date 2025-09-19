@@ -1,0 +1,131 @@
+.login-wrapper {
+    padding: 40px;
+    width: 650px;
+    border: 1px solid #DEDBDB;
+    margin: 100px auto;
+    border-radius: 50px;
+}
+
+.main-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-right-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.text {
+    margin: 50px 0;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #0E0D5D;
+    text-align: center;
+}
+
+.oquvchiman {
+    padding: 9px 0;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #757575;
+    border: none;
+    width: 255px;
+    border-radius: 15px;
+
+}
+
+.oquvchiman:hover {
+    cursor: pointer;
+    background-color: white;
+    transition: 300ms all ease;
+}
+
+.ota-btn {
+    padding: 10px 0;
+    border-radius: 15px;
+    gap: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5F5F5;
+
+}
+input{
+     width: 533px;
+    height: 70px;
+    top: 615px;
+    left: 459px;
+    border-radius: 20px;
+   border: rgb(68, 68, 254);
+    flex-direction: column;
+     font-weight: 500;
+    size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.inputt{
+ font-weight: 500;
+    size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.text1{
+    font-weight: 500;
+    size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.h1{
+    color: #757575;
+    align-items: center;
+    text-align: center;
+}
+.yozuv{
+      padding: 9px 0;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #757575;
+    border: none;
+    width: 255px;
+    border-radius: 15px;
+    width: 202px;
+    height: 67px;
+    background-color: #F69E86;
+    top: 868px;
+    left: 785px ;
+    border-radius: 20px;
+    margin-top: 15px;
+  margin-left: 355px;
+  
+}
+.knopka{
+    font-weight: 500;
+    border: blue;
+    font-size: 25px;
+   padding-left: 40px;
+  
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #757575;
+    border: none;
+}
